@@ -1,0 +1,94 @@
+body {
+    font-family: "Montserrat";
+    text-align: center;
+  }
+
+
+
+/* Navigation Bar */
+
+.navbar {
+    /* padding: 0 0 4.5rem; */
+    background-color: #10cabf; !important
+    
+  }
+  
+  .navbar-brand {
+    font-family: "Ubuntu";
+    font-size: 2.5rem;
+    font-weight: bold;
+  }
+  
+  .nav-item {
+    padding: 0 18px;
+  }
+  
+  .nav-link {
+    font-size: 1rem;
+    font-family: "Montserrat";
+    font-weight: bold;
+  }
+  
+  .colored-section {
+    background-color: #ff4c68;
+    color: #fff;
+  }
+
+  #pricing {
+    padding: 100px;
+  }
+  
+  .price-text {
+    font-size: 3rem;
+    line-height: 1.5;
+  }
+  
+  .pricing-column {
+    padding: 3% 2%;
+  }
+
+#card-img{
+    text-align: center; !important
+}
+
+.bg-primary{
+
+    background-color: #10cabf; !important
+}
+
+.bg-custom-1{
+    background-color: #10cabf;!important
+}
+
+.bottom-text{
+    text-align: center;
+    color: #17a2b8;
+    font-weight: bold;
+}
+
+.social-icon {
+    margin: 20px 10px;
+  }
+  
+  @media (max-width: 1028px) {
+  
+    #title {
+      text-align: center;
+    }
+  
+    .title-image {
+      position: static;
+      transform: rotate(0);
+    }
+  }
+
+  .card{
+    background-color: #10cabf; !important
+  }
+
+  .bottom-section{
+    background-color: #10cabf; !important
+  }
+
+
+
